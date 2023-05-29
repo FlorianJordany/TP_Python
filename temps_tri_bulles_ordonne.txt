@@ -1,0 +1,10 @@
+Taille du tableau: 100 - Temps moyen de tri à bulles: 0.00020036697387695312
+Taille du tableau: 200 - Temps moyen de tri à bulles: 0.0007627487182617187
+Taille du tableau: 300 - Temps moyen de tri à bulles: 0.0017138004302978515
+Taille du tableau: 400 - Temps moyen de tri à bulles: 0.003137969970703125
+Taille du tableau: 500 - Temps moyen de tri à bulles: 0.005051565170288086
+Taille du tableau: 600 - Temps moyen de tri à bulles: 0.007362222671508789
+Taille du tableau: 700 - Temps moyen de tri à bulles: 0.010151529312133789
+Taille du tableau: 800 - Temps moyen de tri à bulles: 0.013618898391723634
+Taille du tableau: 900 - Temps moyen de tri à bulles: 0.017346763610839845
+Taille du tableau: 1000 - Temps moyen de tri à bulles: 0.02124819755554199
